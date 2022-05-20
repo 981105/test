@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$USER_HOME$/Desktop/学习/大三上/软件体系结构/实验/飞机订票系统/city/citys.txt" charset="GBK" />
+    <file url="file://$USER_HOME$/Desktop/学习/大三上/软件体系结构/实验/飞机订票系统/src/ytu/cx/io/FileIOImp.java" charset="GBK" />
+    <file url="file://$USER_HOME$/Desktop/学习/大三上/软件体系结构/实验/飞机订票系统/src/ytu/cx/store/CityNode.java" charset="GBK" />
+    <file url="file://$USER_HOME$/Desktop/学习/大三上/软件体系结构/实验/飞机订票系统/src/ytu/cx/store/Stack.java" charset="GBK" />
+    <file url="file://$USER_HOME$/Desktop/学习/大三上/软件体系结构/实验/飞机订票系统/src/ytu/cx/ui/Login.java" charset="GBK" />
+    <file url="file://$USER_HOME$/Desktop/学习/大三上/软件体系结构/实验/飞机订票系统/src/ytu/cx/ui/MainMyPanel.java" charset="GBK" />
+    <file url="file://$USER_HOME$/Desktop/学习/大三上/软件体系结构/实验/飞机订票系统/src/ytu/cx/ui/MainWindowAdmin.java" charset="GBK" />
+    <file url="file://$USER_HOME$/Desktop/学习/大三上/软件体系结构/实验/飞机订票系统/src/ytu/cx/ui/MainWindowUser.java" charset="GBK" />
+    <file url="file://$USER_HOME$/Desktop/学习/大三上/软件体系结构/实验/飞机订票系统/src/ytu/cx/ui/MyPanel.java" charset="GBK" />
+    <file url="file://$USER_HOME$/Desktop/学习/大三上/软件体系结构/实验/飞机订票系统/src/ytu/cx/ui/Register.java" charset="GBK" />
+    <file url="file://$USER_HOME$/Desktop/学习/大三上/软件体系结构/实验/飞机订票系统/src/ytu/cx/util/DateChooser.java" charset="GBK" />
+    <file url="file://$USER_HOME$/Desktop/学习/大三上/软件体系结构/实验/飞机订票系统/src/ytu/cx/util/Tool.java" charset="GBK" />
+    <file url="file://$USER_HOME$/Desktop/学习/大三上/软件体系结构/实验/飞机订票系统/src/ytu/edu/server/Operation.java" charset="GBK" />
+  </component>
+</project>
